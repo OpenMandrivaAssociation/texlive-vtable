@@ -3,7 +3,7 @@ Version:	51126
 Release:	2
 Summary:	Vertical alignement of table cells
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vtable
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/vtable
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/vtable.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/vtable.doc.r%{version}.tar.xz
